@@ -33,8 +33,8 @@ export default {
         }
       },
       fontFamily: {
-        sans: ['"Inter"', 'sans-serif'],
-        editorial: ['"General Sans"', 'sans-serif'],
+        sans: ['"Satoshi"', '"Inter"', 'sans-serif'],
+        editorial: ['"Lora"', 'serif'],
       }
     },
   },
